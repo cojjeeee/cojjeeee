@@ -6,7 +6,13 @@
 
 </div>
 
-<div align="center"> <img src="https://avatars.githubusercontent.com/u/206864463?v=4"> </div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width="18%">
+  <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width="18%">
+  <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width="18%">
+  <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width="18%">
+  <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width="18%">
+</p>
 
 ## LITTLE INTRO
 - Computer Science student
