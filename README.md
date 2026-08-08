@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"> Hey CoJJee, I'm CoJJee </p>
 
 <!--
 **cojjeeee/cojjeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
