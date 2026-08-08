@@ -17,7 +17,7 @@
 ## LITTLE INTRO
 - Computer Science student
 - Aspiring Game and Software Developer
-- Exploring Database Management and Web UI/UX Development
+- Exploring Database Management, Web Development, and Web UI/UX Design
 
 ## LITTLE TECHSTACK
 <p align="center">
