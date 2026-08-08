@@ -63,9 +63,12 @@
 - __"Tic Tac Toe"__
    - Game through console
    - Showcasing "AI" logic
-
   
-
+<p align="center">
+  <img src="https://www.pngmart.com/files/24/Capybara-Transparent-PNG.png" width="18%">
+  <br>
+  Say Hi.
+</p>
 <!--
 **cojjeeee/cojjeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
