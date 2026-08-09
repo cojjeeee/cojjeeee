@@ -37,7 +37,7 @@
 
 - __"Kitchen Kronicles"__
   - Game Development Exercise for Data Science and Algorithms
-  - Collaborated with AkiiiSauce and BL4NK_USER
+  - Collaborated with [AkiiiSauce](https://github.com/AkiiSauceCode), [BL4NK_USER](https://github.com/BL4NK-USER), and [janepaulineb](https://github.com/janepaulineb)
   - Worked on Game Cutscenes, Menu Screens, and User Interface
 
 - __"Little UFO Exercise"__
@@ -49,16 +49,12 @@
   - Solely worked on user interface
  
 - __Episode Donacode Stories__
-  - Visual Novels using Episode's own programming language Donacode
-  - Features branching logic using conditional statements, object-oriented system, and pointing system
-
-- __Episode Donacode Stories__
-  - Visual Novels using Episode's own programming language Donacode
+  - Visual Novels using Episode's own programming language __[Donacode](https://sites.google.com/pocketgems.com/episode-academy/beginner/directing/donacode-capabilities)__
   - Features branching logic using conditional statements, object-oriented system, and pointing system
 
  - __"Cozy Cups Fork Exercise"__
    - GitHub forking and branching exercise for App Development and Emerging Technologies
-   - Collaborated with micahana4
+   - Collaborated with [micahana4](https://github.com/micahana4)
    
 - __"Tic Tac Toe"__
    - Game through console
