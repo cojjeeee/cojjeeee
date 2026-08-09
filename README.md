@@ -19,7 +19,7 @@
 - Aspiring Game and Software Developer
 - Exploring Database Management, Web Development, and Web UI/UX Design
 
-## LITTLE TECHSTACK
+## LITTLE TECH STACK
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,html,css,python,java,js,mysql,arduino,androidstudio,dotnet,git,github,visualstudio,vscode,unity,godot,figma,windows&perline=12"/>
 </p>
